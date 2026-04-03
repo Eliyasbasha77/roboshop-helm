@@ -1,0 +1,3 @@
+configmap:
+  redisURL: "redis://redis:6379"
+  mongoURL: "mongodb://mongodb:27017/users"
