@@ -1,0 +1,4 @@
+configmap:
+  redisHOST: "redis"
+  catalogueHOST: "catalogue"
+  cataloguePORT: "8080"
